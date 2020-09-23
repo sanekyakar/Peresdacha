@@ -1,0 +1,17 @@
+form div {
+	margin: 5px 20px 5px 20px;
+	position: relative;
+}
+fieldset {
+	border: 1px solid #7caee1;
+}
+label {
+	position: absolute;
+	top: 3px;
+	left: 6px;
+	color: #818181;
+}
+input {
+	margin-right: 10px;
+	width: 150px;
+}
